@@ -1,0 +1,227 @@
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('../fonts/century-gothic/CenturyGothic.eot');
+    src: url('../fonts/century-gothic/CenturyGothic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/century-gothic/CenturyGothic.woff') format('woff'),
+        url('../fonts/century-gothic/CenturyGothic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+html,
+body {
+    font-family: 'Century Gothic', Helvetica, "sans-serif";
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 500;
+	color: #333333e8;
+	font-family: 'Century Gothic', sans-serif;
+	margin-top: 0;
+	line-height: 1.5;
+	margin-bottom: 15px;
+	text-transform: capitalize;
+}
+
+.banner-title {
+        font-size: 50px !important;
+        line-height: 60px !important;
+}
+
+.active {
+	color: #017b3f !important;
+}
+.nav > li {
+	/* position: relative; */
+	display: block;
+	text-transform: uppercase;
+}
+.section-title h2, .section-title-s2 h2, .section-title-s3 h2, .section-title-s4 h2, .section-title-s5 h2 {
+	font-size: 36px;
+	font-size: 2.4rem;
+	line-height: 1em;
+	margin: 0;
+	padding-bottom: 0.47em;
+	position: relative;
+	text-transform: uppercase;
+}
+.about-section-s2 .about-text h3 {
+	font-size: 30px;
+	font-size: 2rem;
+	margin: 1.6em 0 0.8em;
+	padding-bottom: 0.4em;
+	position: relative;
+	text-transform: uppercase;
+}
+.services-grid-s2 .grid {
+	text-align: center;
+	padding: 50px 35px;
+	border: 1px solid #d9d9d9;
+	border-radius: 5px;
+	position: relative;
+	height: 46em;
+}
+
+
+
+.section-title h2::after, .section-title-s2 h2::after, .section-title-s3 h2::after, .section-title-s4 h2::after, .section-title-s5 h2::after {
+	content: "";
+	background-color: #dc6326;
+	width: 30px;
+	height: 5px;
+	border-radius: 5px;
+	position: absolute;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+	bottom: 0;
+}
+.services-grid-s2 .grid h3::after {
+	content: "";
+	background-color: #dc6326;
+	width: 28px;
+	height: 4px;
+	border-radius: 5px;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
+.services-grid-s2 .grid .fi::before {
+	/* font-size: 45px; */
+	font-size: 3rem;
+	color: #dc6326;
+}
+.services-grid-s2 .grid:hover .read-more {
+	color: #dc6326;
+}
+.header-style-5 .upper-topbar-contact i, .header-style-6 .upper-topbar-contact i {
+	color: #dc6326;
+}
+.header-style-6 .upper-topbar a {
+	color: #dc6326;
+}
+.theme-btn, .theme-btn-s2 {
+	font-family: "Century Gothic", sans-serif;
+	background-color: #dc6326;
+	/* font-size: 16px; */
+	font-size: 1.06667rem;
+	color: #fff;
+	padding: 12px 48px 12px 35px;
+	border: 0;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	-ms-border-radius: 5px;
+	border-radius: 5px;
+	display: inline-block;
+	position: relative;
+}
+.theme-btn:hover::after, .theme-btn-s2:hover::after {
+	color: #fff !important;
+}
+.theme-btn:hover, .theme-btn-s2:hover, .theme-btn:focus, .theme-btn-s2:focus, .theme-btn:active, .theme-btn-s2:active {
+	background-color: #012f5c;
+	color: #fff;
+}
+.services-s2-grids .icon {
+	width: 85px;
+	height: 85px;
+	line-height: 85px;
+	text-align: center;
+	border: 2px solid #27458a;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.fun-fact .icon {
+	background-color: #fff;
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: -12px;
+}
+.pricing-grids .center .theme-btn, .pricing-grids .center .theme-btn-s2 {
+	background-color: #007b3e;
+	color: #012f5c;
+}
+.newsletter-section form div button {
+	font-family: "Century Gothic", sans-serif;
+	background-color: #dc6326;
+	width: 205px;
+	height: 46px;
+	line-height: 46px;
+	text-align: center;
+	font-size: 18px;
+	font-size: 1.2rem;
+	font-weight: 600;
+	color: #fff;
+	border: 0;
+	border-radius: 40px;
+	position: absolute;
+	right: 33px;
+	top: 0;
+}
+.newsletter-section h2 span {
+	color: #dc6326;
+}
+.contact-section form button, .contact-pg-content form button {
+	font-family: "Century Gothic", sans-serif;
+	background-color: #dc6326;
+	width: 100%;
+	height: 38px;
+	line-height: 38px;
+	font-size: 16px;
+	font-size: 1.06667rem;
+	font-weight: 600;
+	color: #fff;
+	border: 0;
+	border-radius: 5px;
+	outline: 0;
+}
+.pricing-grids h3::after {
+	content: "";
+	background-color: #dc6326;
+	width: 43px;
+	height: 5px;
+	position: absolute;
+	left: 50%;
+	bottom: 0;
+	-webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
+
+.theme-btn::after, .theme-btn-s2::after {
+	font-family: "FontAwesome";
+	content: "\f0da";
+	color: #fff;
+	position: absolute;
+	right: 25px;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+.pricing-grids .grid:hover .theme-btn, .pricing-grids .grid:hover .theme-btn-s2 {
+	background-color: #dc6326;
+	color: #fff;
+}
+.pricing-section .owl-controls .owl-dots .active span {
+	background-color: #007b3e;
+}
