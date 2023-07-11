@@ -6,9 +6,8 @@
                     <div class="col col-sm-9">
                         <div class="upper-topbar-contact">
                             <ul>
-                                <li><i class="fa fa-envelope"></i> info@extin-innovation.com</li>
-                                <li><i class="fa fa-location-arrow"></i> 380 St Kilda Road, Melbourne, VIC 3004,
-                                    Australia</li>
+                                <li><i class="fa fa-envelope"></i> info@archange-fintech.com</li>
+                                <li><i class="fa fa-location-arrow"></i> Localisation: Imm. Globe Trotter, Cocody Riviera-Palmeraie, Abidjan Côte d'ivoire</li>
                             </ul>
                         </div>
                     </div>
