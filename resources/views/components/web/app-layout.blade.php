@@ -9,10 +9,10 @@
     <meta name="author" content="themexriver">
 
     <!-- Page Title -->
-    <title> Nextin-innovation - Consulting Finance Business </title>
+    <title>BHC-finance&developpement - Conseil Finance Entreprise </title>
 
     <!-- Favicon and Touch Icons -->
-    <link href="assets/images/logo-sans-fond.png" rel="shortcut icon" type="image/png">
+    <link href="assets/images/favicon/favicon.png" rel="shortcut icon" type="image/png">
 
 
     <!-- Icon fonts -->

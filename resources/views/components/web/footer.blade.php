@@ -5,7 +5,7 @@
                 <div class="col col-md-4 col-sm-6">
                     <div class="widget about-widget">
                         <div class="footer-logo"><img src="assets/images/footer-logo.png" alt></div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+                        <p>Nous sommes une entreprise de trading leader reconnu dans le domaine financier, offrant une expertise solide et des services de qualité à nos clients. </p>
                         <ul class="contact-info">
                             <li><i class="fa fa-phone"></i> +225 07 87 78 57 91  </li>
                             <li><i class="fa fa-envelope"></i> info@extin-innovation.com</li>

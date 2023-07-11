@@ -297,7 +297,7 @@
             <div class="row">
                 <div class="col col-sm-6">
                     <div class="video">
-                        <img src="assets/images/about-s2/img-1.jpg" alt>
+                        <img src="assets/images/about-company-bg.jpg" alt>
                         <a href="https://www.youtube.com/embed/opj24KnzrWo?autoplay=1" class="video-btn" data-type="iframe"><i class="fa fa-play"></i></a>
                     </div>
                 </div>

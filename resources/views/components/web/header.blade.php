@@ -37,7 +37,8 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="#" class="navbar-brand"><img src="assets/images/logo-sans-fond.png" width="160"></a>
+                {{-- <a href="#" class="navbar-brand"><img src="assets/images/logo-sans-fond.png" width="160"></a> --}}
+                <a href="#" class="navbar-brand"><img src="assets/images/logo-2.png"></a>
             </div>
             <div id="navbar" class="navbar-collapse collapse navbar-right navigation-holder">
                 <button class="close-navbar"><i class="fa fa-close"></i></button>
